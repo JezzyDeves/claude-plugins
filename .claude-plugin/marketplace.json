@@ -1,0 +1,10 @@
+{
+  "name": "jezzydeves-plugins",
+  "owner": {
+    "name": "JezzyDeves"
+  },
+  "metadata": {
+    "description": "JezzyDeves's personal Claude Code plugins"
+  },
+  "plugins": []
+}
