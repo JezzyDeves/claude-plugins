@@ -41,3 +41,17 @@ claude plugin tag plugins/<name>                  # create {name}--v{version} re
 ```
 
 `claude plugin init` scaffolds into `~/.claude/skills/`, not this repo — move the result into `plugins/` or create files directly.
+
+## Agent skills
+
+### Issue tracker
+
+Issues are tracked in GitHub Issues for `JezzyDeves/claude-plugins` via the `gh` CLI. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Default canonical labels: `needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human`, `wontfix`. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context: one `CONTEXT.md` and `docs/adr/` at the repo root. See `docs/agents/domain.md`.
