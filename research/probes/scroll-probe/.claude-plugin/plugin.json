@@ -1,0 +1,5 @@
+{
+  "name": "scroll-probe",
+  "version": "0.0.0",
+  "description": "Research probe: what $.ui.scroll({ to: { requestId } }) answers when a pane Button press asks it, per surface."
+}
