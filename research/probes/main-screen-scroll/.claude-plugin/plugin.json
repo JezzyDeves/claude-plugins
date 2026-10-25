@@ -1,0 +1,5 @@
+{
+  "name": "main-screen-scroll-probe",
+  "version": "0.0.0",
+  "description": "Research probe for #16: what $.ui.scroll({ to: { requestId } }) answers from a pane Button press and a typed command on the terminal, fullscreen and main screen."
+}
