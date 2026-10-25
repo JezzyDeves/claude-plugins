@@ -1,0 +1,6 @@
+{
+  "name": "compact-probe",
+  "version": "0.0.1",
+  "description": "Throwaway probe for issue #12: logs what a Mod sees around /compact.",
+  "author": { "name": "JezzyDeves" }
+}
