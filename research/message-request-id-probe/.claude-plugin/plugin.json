@@ -1,0 +1,5 @@
+{
+  "name": "rid-probe",
+  "version": "0.0.1",
+  "description": "Probe: logs transcript row ids (session.append uuid) beside ui.render requestIds for UserMessage/AssistantMessage, and tries $.ui.scroll to them."
+}
