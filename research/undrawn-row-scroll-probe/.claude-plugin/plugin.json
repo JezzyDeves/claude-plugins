@@ -1,0 +1,5 @@
+{
+  "name": "urs-probe",
+  "version": "0.0.1",
+  "description": "Probe: does $.ui.scroll reach a transcript row the fullscreen terminal has unmounted (virtualized away)?"
+}
